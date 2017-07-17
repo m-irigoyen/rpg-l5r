@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-07-17T15:35:53+02:00
+
+====== Face ======
+Created lundi 17 juillet 2017
+
+Un samuraï est un élu des cieux, un être exceptionnel choisi dés sa naissance pour servir l'empereur d'une façon inaccessible aux simples paysans. Un samuraï doit maintenir sa discipline et contrôler ses émotions en toute circonstance, afin de ne pas faire de mauvais jugement ou de trahir sa loyauté envers son seigneur.
+La capacité à maintenir ce contrôle de soi est appelé "garder la face".
+
+Un samuraï perd la face quand ce contrôle lui échappe, et qu'il laisse voir ses émotions intimes. Dans le cas où une erreur particulièrement grave est révélée à d'autres, un samuraï perd également la face de cette manière.  Cela peut donner lieu à des situations étranges.
+
+=== Exemple ===
+Isawa Otomo part éliminer des brigands sur ses terres avec une troupe de bushis. La campagne se passe très mal, et il est sur le point de perdre. Akodo Mesumi, étant de passage avec sa garde personnelle, rencontre Otomo et lui sauve la vie au combat. Tout deux rentrent alors dans la demeure d'Otomo.
+L'opération militaire peut alors être racontée de plusieurs manières différentes :
+- Si la nouvelle se répand qu'Otomo à presque été vaincu par de simples bandits, cela démontre l'incapacité d'Otomo à commander : Otomo perdra la face.
+- Otomo pourrait alors mentir et éxagérer le nombre des bandits, ou leur force. Ainsi, il garde la face et si un de des hommes le contredit, il manque à son devoir envers son seigneur Otomo. Otomo pourra donc le punir plus tard.
+- Mesumi peut également mentir, et minimiser sa propre importance dans l'affaire : il insinue qu'Otomo n'avait pas besoin d'aide. Cela permet à Otomo de garder la face.

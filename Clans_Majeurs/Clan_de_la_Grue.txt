@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-07-17T14:42:01+02:00
+
+====== Clan de la Grue ======
+Created lundi 17 juillet 2017
+
+Rôle : Maintien de l'harmonie sociale de l'empire
+Fondateur : Dame Doji (Kami originel)
+
+==== Résumé ====
+Connus depuis des siècles comme la Main Gauche de l'Empereur, le clan de la Grue est chargé de maintenir l'équilibre et l'intégrité des cours de l'Empereur dans la société Rokugani. Les Grues excellent donc en politique et en diplomacie, et sont généralement vus comme les maîtres incontestés des cours, avec tout le ressenti que cela apporte chez les autres clans.
+* Famille Asahina (+1 Connaissance): Dévoués à la philosophie et aux arts, ce sont les plus monastiques des samurai. Ils sont très pascifistes, détestent la violence et chechent toujours moyens que le combat pour résoudre les conflits. 
+* Famille Daidoji (1+ Physique):  aussi appelé Grue de Fer, ils sont le bras armé du clan et exécutent les volontés des familles Doji et Kakita. Ils utilisent la force brut et des tactiques considérées déshonorables.
+* Famille Doji (+1 Perception): reconnus comme les maitres incontestés de la politique et de la culture de l'empire.
+* Famille Kakita (+1 Athlétisme): Véritables cousins des Doji, ils croient en l'excellences dans une tâche particulière, quelle qu'elle soit.
+
+
+==== Mentalité ====
+Prenez n'importe quel personnage important de l'empire : il y a de grandes chances qu'il ait un ami proche, un confident, un conseiller, ou une épouse du clan de la Grue. C'est comme ça que les Grues maintiennent leur assise politique sur l'empire.

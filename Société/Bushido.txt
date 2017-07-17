@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-07-17T14:58:26+02:00
+
+====== Bushido ======
+Created lundi 17 juillet 2017
+
+Le Bushido est le code d'honneur du samuraï. Ecrit par le [[Kamis Originels|Kami Akodo]], il a évolué au fil du temps pour devenir le code de conduite que tous les samuraïs se doivent de respecter.
+
+Le Bushido est consitué de 7 vertues :
+
+* Compassion (Jin) : Le samuraï est l'élite guerrière de la société. Il doit donc protéger et aider ses inférieurs dans Rokugan. Cela implique évidemment une protection militaire (un seigneur protège ses paysans). Même si l'[[Ordre Céleste]] autorise les samuraïs à harceler leurs inférieurs, c'est un acte qui n'est pas digne d'eux.
+* Courage (Yu) : Un samuraï doit être prêt à mourrir à tout moment. Même dans une situation sans issue, un samuraï doit être prêt à combattre jusqu'à la mort sans la moindre hésitation. "Courage" ne veut pas dire "témérité" : la vie d'un samuraï appartient à son seigneur. Gaspiller cette vie, c'est manquer à son devoir envers son seigneur.
+* Courtoisie (Rei) : Les samuraïs sont des êtres civilisés, et doivent être courtois et maniérés en toute occasion. Être grossier ou trop émotionnel signifie non seulement ne pas être Courtois, mais également perdre la face, ce qui est un manque de respect envers les autres et honteux pour soi même. Les rokuganis ignorent généralement tout élément ou personne qui manque à la courtoisie.
+* Devoir (Chugo) : Un samuraï doit toujours être prêt à servir, peu importe le prix. Il doit supporter humiliation, déshonneur, honte et échec pour son Devoir. Il doit rester loyal à sa famille, son seigneur et son clan devant les temptations. Les Scorpions appellent aussi le Devoir la Loyauté, et en font un véritable culte.
+* Honnêteté (Gi) : La vertue la plus simple en théorie, mais complexe en pratique. Il est évident qu'un samuraï devrait toujours dire la vérité. Toutefois, ceux qui fréquentent les cours savent que la réalité est rarement aussi simple.
+* Honneur (Meyo) : Chaque samuraï doit se juger lui même devant son propre honneur. Un samuraï sans honneur respecte le Bushido parcequ'il est jugé par les autres. Un vrai samuraï obéira au Bushido même s'il est laissé seul à lui même, loin de la société.
+* Sincérité (Makoto) : Un samuraï doit être sincère dans ses paroles et ses actions. Un samuraï qui parle maladroitement de son seigneur le trahit. Un samuraï qui ne s'applique pas dans ses études trahit son clan.

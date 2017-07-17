@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-07-17T14:51:26+02:00
+
+====== Familles ======
+Created lundi 17 juillet 2017
+
+==== Asahina ====
+
+
+==== Daidoji ====
+
+
+==== Doji ====
+
+
+==== Kakita ====
+
+
+* Famille Asahina (+1 Connaissance): Dévoués à la philosophie et aux arts, ce sont les plus monastiques des samurai. Ils sont très pascifistes, détestent la violence et chechent toujours moyens que le combat pour résoudre les conflits. 
+* Famille Daidoji (1+ Physique):  aussi appelé Grue de Fer, ils sont le bras armé du clan et exécutent les volontés des familles Doji et Kakita. Ils utilisent la force brut et des tactiques considérées déshonorables.
+* Famille Doji (+1 Perception): reconnus comme les maitres incontestés de la politique et de la culture de l'empire.
+* Famille Kakita (+1 Athlétisme): Véritables cousins des Doji, ils croient en l'excellences dans une tâche particulière, quelle qu'elle soit.

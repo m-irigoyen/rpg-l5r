@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-07-17T15:04:54+02:00
+
+====== Ordre Céleste ======
+Created lundi 17 juillet 2017
+
+==== Résumé ====
+Du plus important au moins important :
+* **Samuraïs** : élite de la société.
+	* **Kage** : noblesse des samuraïs. Comprend l'empereur, les Champions et Daimyos des clans, les seigneurs des grandes villes.
+	* **Buke** : samuraïs "communs". Va du ronin (samuraï errant sans seigneur) à de petits daymios. La majorité des samuraïs sont Buke.
+* **Bonge** **(ou "heimin") **: "heimin" se traduit par "demi-personne". Ce sont eux qui alimentent le commerce, l'industrie, l'agriculture. N'ont généralement pas le droit d'être armés. Par ordre d'importance : 
+	* Paysans : Ils produisent la nourriture, et sont respectés pour ça.
+	* Artisans / travailleurs : Ils produisent des choses utiles, ou de valeur.
+	* Marchands : Ils ne créent rien, par eux même, donc on les considère inférieurs.
+* **Hinin :** Traduit par "non-personne", c'est à eux que reviennent toutes les tâches ingrâtes ou sales. Toucher la viande, les morts, les excréments, les poubelles, etc. Ils sont considérés comme des moins que rien, même les paysans abusent ouvertement d'eux.
+
+== L'exception des ronins ==
+Les ronins sont des samuraïs sans seigneurs. Ils sont généralement très mal considérés par les autres samuraïs : après tout "samuraï" veut dire servir, et les ronins ne servent personne. L'Ordre Céleste indique que les ronins sont supérieurs aux heimins et hinins, mais socialement ils sont placés grossièrement entre les heimins et les hinins.
+C'est une contradiction étrange, et de nombreux samuraïs sont mal à l'aise face à un ronin pour cette raison.
+
+==== Détail ====
+Les Rokuganis croient que tout être vivant est rangé dans l'Ordre Célestial, une hiérarchie établie par la volonté des Paradis Célestes. Cette hiérarchie fût passée aux hommes par les Kamis (les dieux) à la fondation de l'Empire. Ignorer cette hiérarchie revient à blasphémer les dieux eux mêmes.
+
+Rokugan est divisé en 3 castes : la caste des Samuraïs (Kage et Buke), la caste des paysans et marchands (Bonge) et la caste des "Non personnes" (Hinin)
+
+
+Les Samuraïs suivent le code d'honneur du Bushido, un ensemble de règles qui dictent la bonne conduite en toute situation.
+Les Samuraïs se divisent en deux : les nobles (Kage) et leurs servants (Buke). Le Kage contient l'empereur et la plupart des grands dirigeants de villes ou de clans, les champions de clans majeurs, les Daimyos de clans majeurs.
+Tous les autres samuraïs sont Buke, avec une stature plus ou moins importante : du simple soldat ou prêtre jusqu'aux Daimyos.
+Un samuraï ne doit jamais opposer la volonté d'un supérieur hiérarchique sans la justification la plus forte. Inversement, un samuraï peut imposer sa volonté sur ses inférieurs, qui doivent le supporter avec dignité.
+Les samuraïs doivent toujours se traîter avec respect, même s'ils sont ennemis jurés, afin de respecter la Courtoisie du Bushido. Perdre son sang froid est un déshoneur grave, qui indique qu'un samuraï à "perdu la face".
+
+
+Le Bonge comprend le petit peuple, aussi appelé "heimin" ou "demi personnes". Ils comprennent la vaste majorité de la population de Rokugan, et ce sont eux qui alimentent l'agriculture et le commerce de l'empire. Ils leur est généralement interdit de posséder une arme, à l'exception des ashigarus (paysans militaires) ou des budokas (guardes du corps personnels d'un samuraï). Un samuraï peut profiter comme bon lui semble d'un heimin, qui devra toujours lui obéïr. Un samuraï peut d'ailleurs prendre la vie de n'importe quel heimin. Toutefois, l'Ordre Célestial indique qu'il est le devoir d'un heimin de produire et d'obéir, mais il est le devoir d'un samuraï d'administrer et de protéger.
+Toutefois, la vie de Bonge est dûre, pleine de dur labeur et de difficultés. Rares sont ceux qui ont la chance de servir un samuraï qui se préoccupe vraiment d'eux. Ils sont la plupart du temps traîtés avec indifférence, sinon cruauté. Les Bonges savent reconnaître un bon maître, qui sera souvent récompensé par une plus grande loyauté.
+Les Bonge sont également divisiés socialement : 
+- au plus haut les paysans produisent la nourriture
+- En dessous, les artisans et fabricants produisent des choses utiles, ou de valeur
+- En dernier, les marchands. Comme ils ne créent rien par eux même, les samuraïs les dénigrent souvent. Mais le commerce est important pour l'empire et de nombreux clans l'utilisent pour renflouer leurs coffres, une contradiction troublante pour plus d'un samuraï.
+
+Les moines de la confrérie de Shinsei sont une exception. Ils sont heimin, mais leur rôle de répandre la religion officielle de l'empire leur accorde un statut spécial. Beaucoup de samuraïs apprécient donc leur compagnie.
+
+En dessous des Bonge, on trouve les Ronin : des samuraïs sans clans ni seigneurs. Sans personne pour les protéger ou leur fournir le couvert et de l'argent, les Ronins doivent travailler pour survire, souvent prenant le rôle de gardes du corps. Certains doivent même devenir paysans pour vivre, mais cela est considéré comme extrêmement honteux par les samuraïs. De nombreux Ronins préfèreront donc devenir brigands plutôt que paysans.
+
+Tout en bas de l'Ordre Célestial, on trouve les hinin, le non-peuple. Ils sont considérés comme spirituellement impurs. Ils sont aussi appelés "eta" prennent les tâches qui ammènent au contact de substances "sales" : manipuler les morts, le sang ou les poubelles, par exemple. Ils sont considérés comme des moins que rien, et même les paysans abusent d'eux et les dénigrent. La vie d'un eta est difficile : leur seul espoir est que s'ils remplissent bien leur devoir, ils seront réincarnés dans une meilleure situation. Le reste de Rokugan les ignore, mais ils sont néamoins vitaux car ils font les travaux que personne d'autre ne ferait.
+La plupart des hinin sont des etas, mais on trouve également d'autres métiers comme les tortionnaires. Les geishas également sont hinins, mais comme elles servent les samuraïs plus directement, elles jouissent d'un statut social un peu plus élevé.
